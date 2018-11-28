@@ -9,3 +9,14 @@ C:\Users\Administrator\source\repos\Calc\Calc\bin\Debug\nunit.framework.dll
 C:\Users\Administrator\source\repos\Calc\Calc\bin\Debug\nunit.framework.pdb
 C:\Users\Administrator\source\repos\Calc\Calc\bin\Debug\nunit.framework.xml
 C:\Users\Administrator\source\repos\Calc\Calc\obj\Debug\Calc.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\alexeyer\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Administrator\Source\Repos\alexeyer\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Administrator\Source\Repos\alexeyer\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Administrator\Source\Repos\alexeyer\Calc\Calc\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Source\Repos\alexeyer\Calc\Calc\bin\Debug\nunit.framework.pdb
+C:\Users\Administrator\Source\Repos\alexeyer\Calc\Calc\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Source\Repos\alexeyer\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\alexeyer\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\alexeyer\Calc\Calc\obj\Debug\Calc.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\alexeyer\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Administrator\Source\Repos\alexeyer\Calc\Calc\obj\Debug\Calc.pdb

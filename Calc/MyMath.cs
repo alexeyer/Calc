@@ -8,9 +8,9 @@ namespace Calc
 {
     class MyMath
     {
-        public int Add(int a, int b)
+        public int Add(int a, int c)
         {
-            return a + b;
+            return a + c;
         }
 
         public int Sub(int a, int b)
